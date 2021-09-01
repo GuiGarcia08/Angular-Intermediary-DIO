@@ -6,7 +6,7 @@ O curso consiste em um sistema de filmes, com a possibilidade de cadastros, edi�
 
 ## Instalação
 
-1. clone o repositório `git clone https://`
+1. clone o repositório `git clone https://github.com/GuiGarcia08/Angular-Intermediary-DIO.git`
 2. Entre no projeto e instale as dependencias `npm install`
 
 ## Ambiente Local
